@@ -1,0 +1,27 @@
+body {
+  background: #fff;
+}
+main {
+  background: #fff;
+}
+
+.form {
+  background: #468585;
+  width: 500px;
+  padding: 30px;
+  margin: 50px auto;
+}
+
+.form h1 {
+  color: #fff;
+  font-size: 24px;
+  text-align: center;
+}
+
+.form .form-group {
+  margin-bottom: 15px;
+}
+
+.form label {
+  color: #fff;
+}
